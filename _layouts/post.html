@@ -3,4 +3,4 @@ layout: default
 ---
 <h1>{{ page.title }}</h1>
 {{ content }}
-<div><span>{{ page.date | date_to_string }}</span></div>
+<div><span data-iso-date="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%a, %d %b %Y %h:%M %p" }}</span></div>
