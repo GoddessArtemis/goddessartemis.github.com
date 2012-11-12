@@ -355,6 +355,12 @@ footer p + p {
   }
 }
 
+.post-time
+{
+  float: right;
+  margin-bottom: 1em;
+}
+
 .disqus-thread
 {
   font-size: 0.8em;
