@@ -11,8 +11,7 @@ layout: nil
  <author>
    <name>Katie Gietzen</name>
    <email>goddessartemis85@gmail.com</email>
- </author>
-{% for post in site.posts %}
+ </author>{% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
    <link href="{{ site.url }}{{ post.url }}"/>
