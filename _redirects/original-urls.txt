@@ -1,2 +1,3 @@
 original urls
 /2010/04/14/HelloWorld.aspx
+/2010/04/15/AnyoneWantToPlay.aspx
