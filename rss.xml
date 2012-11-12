@@ -5,21 +5,21 @@ layout: nil
 <rss version="2.0">
  <channel>
   <title>Drama Mama</title>
-  <link href="http://katie.gietzen.net/" rel="alternate" />
+  <link>{{ site.url }}/</link>
   <description>The scattered thoughts of a new mom.</description>
   <language>en-us</language>
   <copyright>Katie Gietzen</copyright>
-  <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
-  <managingEditor>goddessartemis85@gmail.com</managingEditor>
-  <webMaster>goddessartemis85@gmail.com</webMaster>
+  <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
+  <managingEditor>"Katie Gietzen" &lt;goddessartemis85@gmail.com&gt;</managingEditor>
+  <webMaster>"Katie Gietzen" &lt;goddessartemis85@gmail.com&gt;</webMaster>
 {% for post in site.posts %}
   <item>
     <title>{{ post.title }}</title>
-    <link>http://katie.gietzen.net{{ post.url }}</link>
-    <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
-    <guid isPermalink="false">http://katie.gietzen.net{{ post.id }}</guid>
-    <body xmlns="http://www.w3.org/1999/xhtml">
-{{ post.content | xml_escape }}
+    <link>{{ site.url }}{{ post.url }}</link>
+    <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+    <guid>{{ site.url }}{{ post.id }}</guid>
+    <body>
+{{ post.content }}
     </body>
   </item>
 {% endfor %}
