@@ -2,10 +2,11 @@
 layout: nil
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
  <channel>
   <title>Drama Mama</title>
   <link>{{ site.url }}/</link>
+  <atom:link href="{{ site.url }}/rss.xml" rel="self" type="application/rss+xml" />
   <description>The scattered thoughts of a new mom.</description>
   <language>en-us</language>
   <copyright>Katie Gietzen</copyright>
