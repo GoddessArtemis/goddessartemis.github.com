@@ -10,18 +10,17 @@ layout: nil
   <language>en-us</language>
   <copyright>Katie Gietzen</copyright>
   <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %H:%M:%S %z" }}</lastBuildDate>
-  <managingEditor>"Katie Gietzen" &lt;goddessartemis85@gmail.com&gt;</managingEditor>
-  <webMaster>"Katie Gietzen" &lt;goddessartemis85@gmail.com&gt;</webMaster>
+  <managingEditor>goddessartemis85@gmail.com (Katie Gietzen)</managingEditor>
+  <webMaster>goddessartemis85@gmail.com (Katie Gietzen)</webMaster>
 {% for post in site.posts %}
   <item>
-    <title>{{ post.title }}</title>
-    <link>{{ site.url }}{{ post.url }}</link>
-    <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-    <guid>{{ site.url }}{{ post.id }}</guid>
-    <body>
-{{ post.content }}
-    </body>
-  </item>
-{% endfor %}
+   <title>{{ post.title }}</title>
+   <link>{{ site.url }}{{ post.url }}</link>
+   <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+   <guid isPermaLink="false">{{ site.url }}{{ post.id }}</guid>
+   <description>
+{{ post.content | xml_escape }}
+   </description>
+  </item>{% endfor %}
  </channel>
 </rss>
