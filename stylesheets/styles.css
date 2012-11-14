@@ -380,3 +380,8 @@ footer p + p {
 {
   white-space: nowrap;
 }
+
+.next
+{
+  float: right;
+}
