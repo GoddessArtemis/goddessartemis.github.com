@@ -381,6 +381,10 @@ footer p + p {
   white-space: nowrap;
 }
 
+.pagination
+{
+  height: 18pt;
+}
 .next
 {
   float: right;
