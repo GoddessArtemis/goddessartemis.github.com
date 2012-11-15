@@ -6,7 +6,7 @@ original: /2011/03/08/HighOnPassion.aspx
 ---
 I’ve found lately, that I get the majority of my news from Twitter, Comedy Central, and NPR’s “Wait, Wait, Don’t Tell Me.” As a result, I know there’s a lot going on about Charlie Sheen lately, but I didn’t know until almost a week later that my father-in-law made it through the primary elections for city council and is still in the running. I like my news funny and, apparently, irrelevant. But a few days ago, a twitter comic I follow called Peter Coffin, brought my attention to this video posted on YouTube:
 
-<iframe class="youtube-player" type="text/html" width="448" height="252" src="http://www.youtube.com/embed/e6t6d9YBuFM" frameborder="0"></iframe>  
+<iframe class="youtube-player" type="text/html" width="448" height="252" src="http://www.youtube.com/embed/e6t6d9YBuFM" frameborder="0"> </iframe>  
 <span style="font-size:.8em">Hate Comes to Orange County</span>
 
 After watching it, I actually felt sick to my stomach. And immediately reposted the video on twitter with this comment:
