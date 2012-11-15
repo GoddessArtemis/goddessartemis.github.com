@@ -1,0 +1,15 @@
+---
+layout: post
+title: Education Guilt
+date: 2010-05-12 19:56:00 -5
+original: /2010/05/12/EducationGuilt.aspx
+---
+I know deep down that staying home with my daughter is a good thing.  I know it’s good for me to be here breastfeeding her.  And I know she will benefit from the attention I’ve been able to give her.  But I can’t help feeling like I’ve wasted over $80,000 on an education that has zero relevance to my current “job.”  And, again, I know that my college experience was invaluable.  I know that it made me into the person I am today.  But when you start looking at the bills each month you can’t help saying, “Ouch!”  Luckily, most of the 80,000 was paid for by the government or scholarships.  There’s no way I could have gone to Benedictine if they didn’t have such a great financial aid program.  However, I’m still not paying off the loans I did need by myself.  John’s paying them off now, and even though I know he loves me and that I’m more important to him than money, I can’t help feeling like all I brought to the relationship was debt.  We didn’t include me in our home loan because my financial situation would have hurt our cause rather than helping it.  We probably wouldn’t have been able to buy our house if we’d gotten married first.
+
+And, all of this wouldn’t be so bad if I were a better housekeeper.  I can never seem to keep up with the dishes or laundry.  Forget the cleaning.  That only happens frantically when in-laws are coming in town for the weekend.  Poor John had to wear damp clothes to work this morning because I was an idiot and didn’t put the dryer balls in the dryer.  (It requires roughly 1 3/4 cycles with them and 3 or more without them.)  I’m a disaster to the household.  Since I’m not holding up my end of the deal very well and not bringing in any money at all, I feel really guilty about spending any money on myself.  I really don’t understand women who can just throw their husbands’ money around.  (Or men who throw their wives’ money around.  Let’s not be sexist, here.)
+
+But it’s not all about money.  It’s about feeling like I’m contributing something to the world.  Because my educational fields were on the artistic and academic sides, I feel like I should adding myself to the overall volume of work in those fields.  I guess that’s what this blog is about, even if no one reads it.  It’s about making an artistic contribution.  Creative non-fiction is sort of a perfect blend of my disciplines.  I’m writing history with a dramatic eye.  And for now, this is all I can do, because really utilizing my degrees requires more education and, therefore, more money and time.  Unfortunately, those are both dear commodities, and I have very limited amounts of either one.
+
+Total side note: do you say EE-ther or I-ther?  Is there any rule to when you use which pronunciation?
+
+Anyway, Layla’s awake.  That’s all from me for now.

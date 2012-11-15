@@ -1,0 +1,9 @@
+---
+layout: post
+title: So... I need to get more serious about that diet…
+date: 2010-04-18 19:30:24 -5
+original: /2010/04/18/SoINeedToGetMoreSeriousAboutThatDiet.aspx
+---
+This weekend, John’s sister Anna and her husband Cody came into town to stay with us.  And, as Anna is one of my bridesmaids for our wedding in August, I thought we’d take some time to check out dress possibilities.  We picked up my sister, Dana, who will also be a bridesmaid, and hit the mall.  We brought Layla with us, so it was a lovely girls’ outing.  We had a lot of fun together, and I was happy to see that Dana and Anna got pretty comfortable with each other pretty quickly.  But, we didn’t have a lot of luck actually finding dresses.  I thought it was be simple to find some fairly nice T-length dresses, hopefully in solid colors.  Unfortunately everything is either floor-length evening wear, or super short.  I tried on just about anything that was white or cream or ivory just to see if we could get away with a department store wedding dress (I’m a little non-traditional), but I hated how I looked in everything.  I have some more weight to lose.  I need a tan.  And I wish I was about 3 or 4 inches taller.
+
+But, whatever, this is the body God gave me, and I always knew I was no super model.  If we can’t find anything nice in a store, my mom and I are going to make my dress.  And by that I mean, Mom will make the dress while I watch my little brother and sister. :)  I’m hoping for T-length for me as well, with a sort of 40s look, and hopefully and vintage hat with the netting in front instead of a traditional veil.  John wants zoot suits for the guys, so I think this should go together fairly well.  But bringing my vague vision into reality is turning out to be more difficult than I thought.
