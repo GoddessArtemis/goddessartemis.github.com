@@ -1,3 +1,7 @@
+---
+layout: post
+title: test
+---
 Test  
 This is me trying to use markdown to write. I'm not sure I like having to add line breaks like these manually. When I first glanced at this program, I thought I'd be able to type in the other window and have it do the basic markup for me. I'm too used to working in a regular word processor.
 
