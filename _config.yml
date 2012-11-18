@@ -1,2 +1,4 @@
 url: http://katie.gietzen.net
 paginate: 5
+
+exclude: run.cmd
